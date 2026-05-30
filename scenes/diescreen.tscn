@@ -1,0 +1,88 @@
+[gd_scene format=3 uid="uid://yce8sf8ir7oc"]
+
+[ext_resource type="StyleBox" uid="uid://c3xgpaihcwodn" path="res://res/button_bg.tres" id="1_l1vh7"]
+[ext_resource type="Script" uid="uid://bri8fok0uo2r0" path="res://scenes/enablemouse.gd" id="1_xrni0"]
+[ext_resource type="Script" uid="uid://gkxgfl2svph4" path="res://scenes/mainmenubutton.gd" id="2_xrni0"]
+[ext_resource type="Script" uid="uid://bbl10ei0r8h7l" path="res://scenes/play_button.gd" id="2_ytjiv"]
+[ext_resource type="Texture2D" uid="uid://7b1hsd713yg7" path="res://assets/sprites/YOU-DIED.png" id="3_xrni0"]
+
+[node name="Control" type="Control" unique_id=624847499]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_xrni0")
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=816996254]
+show_behind_parent = true
+layout_mode = 0
+offset_left = -2648.0
+offset_top = -1168.0
+offset_right = -2372.3909
+offset_bottom = -935.5743
+scale = Vector2(21.798985, 12.700831)
+color = Color(1, 0, 0, 1)
+
+[node name="RespawnButton" type="Button" parent="." unique_id=828961580]
+texture_filter = 1
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -80.0
+offset_top = -3.9999847
+offset_right = 173.3858
+offset_bottom = 80.461914
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.5683034, 0.5683034)
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 32
+theme_override_styles/normal = ExtResource("1_l1vh7")
+theme_override_styles/pressed = ExtResource("1_l1vh7")
+theme_override_styles/hover = ExtResource("1_l1vh7")
+theme_override_styles/disabled = ExtResource("1_l1vh7")
+theme_override_styles/focus = ExtResource("1_l1vh7")
+text = "RESPAWN
+"
+script = ExtResource("2_ytjiv")
+
+[node name="MainMenuButton" type="Button" parent="." unique_id=2128644492]
+texture_filter = 1
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -79.999985
+offset_top = 84.0
+offset_right = 171.0
+offset_bottom = 163.76904
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.5683034, 0.5683034)
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 32
+theme_override_styles/normal = ExtResource("1_l1vh7")
+theme_override_styles/pressed = ExtResource("1_l1vh7")
+theme_override_styles/hover = ExtResource("1_l1vh7")
+theme_override_styles/disabled = ExtResource("1_l1vh7")
+theme_override_styles/focus = ExtResource("1_l1vh7")
+text = "MAIN MENU
+"
+script = ExtResource("2_xrni0")
+
+[node name="YouDied" type="Sprite2D" parent="." unique_id=1192363545]
+position = Vector2(8, -100)
+scale = Vector2(0.90957767, 0.90957767)
+texture = ExtResource("3_xrni0")
+
+[connection signal="button_down" from="RespawnButton" to="RespawnButton" method="_on_respawn_button_down"]
+[connection signal="button_down" from="MainMenuButton" to="MainMenuButton" method="_on_button_down"]

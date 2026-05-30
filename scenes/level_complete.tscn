@@ -1,0 +1,71 @@
+[gd_scene format=3 uid="uid://bhsgi8se84cyj"]
+
+[ext_resource type="Texture2D" uid="uid://bad12f8rj0ku7" path="res://assets/sprites/LEVEL-COMPLETE.png" id="1_2e2w2"]
+[ext_resource type="Script" uid="uid://bri8fok0uo2r0" path="res://scenes/enablemouse.gd" id="1_rovvh"]
+[ext_resource type="StyleBox" uid="uid://c3xgpaihcwodn" path="res://res/button_bg.tres" id="2_rovvh"]
+[ext_resource type="Script" uid="uid://gkxgfl2svph4" path="res://scenes/mainmenubutton.gd" id="3_3oeyx"]
+
+[node name="Control" type="Control" unique_id=854750798]
+layout_mode = 3
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_rovvh")
+
+[node name="LevelComplete" type="Sprite2D" parent="." unique_id=657797926]
+texture_filter = 1
+position = Vector2(22.99997, -81)
+scale = Vector2(0.57719374, 0.884)
+texture = ExtResource("1_2e2w2")
+
+[node name="MainMenuButton" type="Button" parent="." unique_id=637537823]
+texture_filter = 1
+layout_mode = 1
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -135.0
+offset_top = 36.0
+offset_right = 343.61755
+offset_bottom = 199.223
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.5683034, 0.5683034)
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_font_sizes/font_size = 64
+theme_override_styles/normal = ExtResource("2_rovvh")
+theme_override_styles/pressed = ExtResource("2_rovvh")
+theme_override_styles/hover = ExtResource("2_rovvh")
+theme_override_styles/disabled = ExtResource("2_rovvh")
+theme_override_styles/focus = ExtResource("2_rovvh")
+text = "MAIN MENU
+"
+script = ExtResource("3_3oeyx")
+
+[node name="Label" type="Label" parent="." unique_id=1732127030]
+layout_mode = 0
+offset_left = -112.0
+offset_top = -16.0
+offset_right = 156.0
+offset_bottom = 7.0
+text = "Sorry, there aren't any other levels"
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=390693658]
+layout_mode = 0
+offset_left = -84.0
+offset_top = -53.0
+offset_right = 119.0
+offset_bottom = -13.0
+color = Color(0.47058824, 0.654902, 1, 1)
+
+[connection signal="button_down" from="MainMenuButton" to="MainMenuButton" method="_on_button_down"]

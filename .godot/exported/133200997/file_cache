@@ -1,0 +1,17 @@
+res://res/tileset.tres::5bb35fe2e254e49079a2d2cb90d29604::1780084675::res://.godot/exported/133200997/export-34fc3bbea72f8da570d9769b3dfb01c1-tileset.res
+res://scenes/camera_2d.tscn::c038dfb519cf3eb92a2d413d0ab3c933::1780085722::res://.godot/exported/133200997/export-356dfb3798f6f8d86469a55c7df2314c-camera_2d.scn
+res://scenes/coin.tscn::27d5b91e63d0bd51e05b49139b3577c5::1780138212::res://.godot/exported/133200997/export-96b2131180b71dd158e52c5527d22dd4-coin.scn
+res://scenes/game.tscn::d293fb0b24496a6454b190438ad442c1::1780132991::res://.godot/exported/133200997/export-c2a7af834e91ff64325daddf58e45dc0-game.scn
+res://scenes/killzone.tscn::a4edd2f18baf543e44c2ba1d4e056e38::1780140884::res://.godot/exported/133200997/export-494bf1445653c44a49a39c8f8b1ce8d0-killzone.scn
+res://scenes/platform.tscn::310ac5f9f0479c8529228db38d614cda::1780084675::res://.godot/exported/133200997/export-cc2f727180cd42d9c13434cb55b1ce69-platform.scn
+res://scenes/player.tscn::6fa70b14e75c480e6eafb89c72769566::1780148712::res://.godot/exported/133200997/export-234fb6894ec6226e856ab7f825500d3d-player.scn
+res://scenes/ui.tscn::fed72d3b15bc22f8130ecb02aba48f76::1780151402::res://.godot/exported/133200997/export-9211dc52ac9df169ba4fe77cbc1dc833-ui.scn
+res://scenes/worldbarrier.tscn::7f300c46d2bb7ae45dd06f94b1ec533c::1780084675::res://.godot/exported/133200997/export-9dd34e9024ed5c30a33d990c2414a7b8-worldbarrier.scn
+res://res/button_bg.tres::a6266e97cd33a32c5d77666e412f6a2e::1780138950::res://.godot/exported/133200997/export-b96d61ba339b2c55055a3169651308a1-button_bg.res
+res://scenes/diescreen.tscn::b20d212686196c62d57a164921c46d27::1780150984::res://.godot/exported/133200997/export-626a92e41f476070922e9a32018393ca-diescreen.scn
+res://scenes/LevelBluePrint.tscn::1c2cfb802454aa23115c462996ae0bd6::1780147403::res://.godot/exported/133200997/export-7fbf153ba7edba60dfbde8179d7e96d2-LevelBluePrint.scn
+res://scenes/main_menu.tscn::9056e318144c91c457ec08abd89a3d16::1780149402::res://.godot/exported/133200997/export-ea5c6ad4629af728dc514cefde332394-main_menu.scn
+res://scenes/level1.tscn::1542ab54895de9fe31a8e7a82b9c851c::1780150844::res://.godot/exported/133200997/export-f859d0047d3b342253437035700f7078-level1.scn
+res://scenes/level_complete.tscn::ea909295af29768598f25e7ca3c8b420::1780149494::res://.godot/exported/133200997/export-c9d0204b8499aa569d59b03e3745bb3b-level_complete.scn
+res://scenes/dragon_egg_end.tscn::6d5a2e0963a1f1bc712b61a8f71d9fd8::1780147863::res://.godot/exported/133200997/export-c417ebfda546b90982b26ca3e899e77f-dragon_egg_end.scn
+res://scenes/testlevel.tscn::dd54ebcfc3493b90ce3d8a7d6921683a::1780138274::res://.godot/exported/133200997/export-799bf206b3c5150c756f54f9376c664a-testlevel.scn

@@ -1,0 +1,33 @@
+GDRE Tools v2.5.0-beta.5
+Windows 10.0.19045, NVIDIA GeForce GTX 1060, vulkan
+Opening file: D:/Desktop/GODOT/giochi/mineplatformer/exports/mineformer 0.85/index.pck
+Loaded 39 imported files
+Detected Engine Version: 4.6.3
+Detected Bytecode Revision: 4.5.0-stable (ebc36a7)
+Verified 83 files, no errors detected!
+Extracted 83 files, no errors detected!
+Saved project config.
+
+
+********************************EXPORT REPORT********************************
+
+Totals:                                 
+Decompiled scripts:                     4
+Failed scripts:                         0
+Imported resources for export session:  39
+Successfully converted:                 39
+Lossy:                                  1
+Rewrote metadata:                       27
+Non-importable conversions:             0
+Not converted:                          0
+Failed conversions:                     0
+-------------
+
+
+
+------------------------------------------------------------------------------------
+
+Use Godot editor version 4.6.3 to edit the project.
+
+*******************************************************************************
+

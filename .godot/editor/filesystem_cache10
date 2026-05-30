@@ -1,0 +1,108 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1780163845
+export_presets.cfg::TextFile::-1::1780151420::0::1::::<><><>0<>0<><>::
+gdre_export.log::TextFile::-1::1780084676::0::1::::<><><>0<>0<><>::
+hidemouse.gd::GDScript::65612031002338070::1780149015::0::1::::<>Node<><>0<>0<><>::
+icon.svg::CompressedTexture2D::4946458212763068392::1780084675::1780084675::1::::<><><>0<>0<>d4a86ec3e3d265ce0c5b43f392a87616<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+score.gd::GDScript::4928180724965514754::1780150529::0::1::::<>Node<><>0<>0<><>::
+::res://assets/::1780137848
+::res://assets/sounds/::1780137865
+nickpanekaiassets-356-8-bit-chiptune-game-music-357518.mp3::AudioStreamMP3::4584364219274161085::1780137864::1780137865::1::::<><><>0<>0<>943f42deee2d0fb6212347d33582d742<>res://.godot/imported/nickpanekaiassets-356-8-bit-chiptune-game-music-357518.mp3-e1c1e2b29572ac86c3c45fa2de22fbf9.mp3str::
+ribhavagrawal-coin-recieved-230517.mp3::AudioStreamMP3::3137414425812280711::1780137856::1780137856::1::::<><><>0<>0<>7b8f799805fd80f81ab0cdbbf6109a86<>res://.godot/imported/ribhavagrawal-coin-recieved-230517.mp3-46e7d2c9dc501a53e86631c10c42a001.mp3str::
+::res://assets/sprites/::1780148446
+arrow.png::CompressedTexture2D::1985354166982615660::1780084675::1780084675::1::::<><><>0<>0<>f3af589d6817a3a8f28bdfd03d71685a<>res://.godot/imported/arrow.png-18e607c3398c94c410f88abf48695716.ctex::
+By-ChuwexCraft.png::CompressedTexture2D::1787311060961584776::1780148446::1780148446::1::::<><><>0<>0<>f64a4db117a4f70a1109ef4498e98e61<>res://.godot/imported/By-ChuwexCraft.png-e5df1b4c2c99515d80560b1e4a397b4b.ctex::
+coin.png::CompressedTexture2D::8373208563595152066::1780084675::1780084675::1::::<><><>0<>0<>fdd4abbd2717f8a93741f27addd83670<>res://.godot/imported/coin.png-c8309bf0f8fb5f3a7d1e96a4eb3f02ce.ctex::
+dragon_egg.png::CompressedTexture2D::2478115223365716518::1780143993::1780143995::1::::<><><>0<>0<>222762e932f7251e699a23d2ed3d9da6<>res://.godot/imported/dragon_egg.png-9bfd9423fd6b284fe0e86568ba35a419.ctex::
+LEVEL-COMPLETE.png::CompressedTexture2D::2394240989583361192::1780147556::1780147557::1::::<><><>0<>0<>955d3cfa6bbe57d9d649ea797e684491<>res://.godot/imported/LEVEL-COMPLETE.png-eea00970155e632f86f160436839a3ba.ctex::
+minecraft_tiles.png::CompressedTexture2D::7014376453530469877::1780143959::1780143995::1::::<><><>0<>0<>28c809d168889b435db716486e9972e2<>res://.godot/imported/minecraft_tiles.png-1595ae93379d995e79fb5846e97a9edb.ctex::
+MINEFORMER.png::CompressedTexture2D::7345492160402878688::1780134498::1780134499::1::::<><><>0<>0<>5a63607b928af3c19de18587eaec3ab4<>res://.godot/imported/MINEFORMER.png-348a2c5b8888ff06dd3db59422b0eeb8.ctex::
+NICE-TRY.png::CompressedTexture2D::855403815781026692::1780145225::1780145226::1::::<><><>0<>0<>4cd1cf2e84c14c58e5b5b4f6cefdb72e<>res://.godot/imported/NICE-TRY.png-0a535853cbe4a160484a24fc1450e14a.ctex::
+PLAY.png::CompressedTexture2D::2643746284989479415::1780134931::1780134932::1::::<><><>0<>0<>ff717090ed9083362586e6fbb31ffa3a<>res://.godot/imported/PLAY.png-6c1d2b050b2df6b45b8b9b4abdc1dc26.ctex::
+Screenshot_4.png::CompressedTexture2D::2803511500600000827::1780133642::1780133642::1::::<><><>0<>0<>405c6bb7f891bf0a7d58ff391844bdde<>res://.godot/imported/Screenshot_4.png-dd82eeea921f64a2a6b6b833835ff5da.ctex::
+sky_tileset.png::CompressedTexture2D::4247989074902488332::1780084675::1780084675::1::::<><><>0<>0<>f8f537194c549a86c596bd986767f523<>res://.godot/imported/sky_tileset.png-284ad2b7f98912893e942fd6f9b8b7a3.ctex::
+spritesheet_steve.png::CompressedTexture2D::7808302899194917152::1780133259::1780133260::1::::<><><>0<>0<>19ca6e25281739bc02ec3645d763de75<>res://.godot/imported/spritesheet_steve.png-de1569717d3b13dcbf02778e19183279.ctex::
+YOU-DIED.png::CompressedTexture2D::2249699468084881036::1780138865::1780138865::1::::<><><>0<>0<>bc552e299fba1aa3491ae6304b823331<>res://.godot/imported/YOU-DIED.png-5d0c8e1d23e13a331f826af8d6cf7fb7.ctex::
+::res://exports/::1780151416
+::res://exports/mineformer/::1780084759
+index.144x144.png::CompressedTexture2D::6496102781220549264::1780084675::1780084675::1::::<><><>0<>0<>43e7e532e1b6595d9e8f557662d10253<>res://.godot/imported/index.144x144.png-2f1426079436d82b8ba639515fe80bed.ctex::
+index.180x180.png::CompressedTexture2D::297196348990974160::1780084675::1780084675::1::::<><><>0<>0<>bf32efb0f0dd91fe0d3247f011041c48<>res://.godot/imported/index.180x180.png-a1fa23510b5c7185d00779721d562648.ctex::
+index.512x512.png::CompressedTexture2D::7621508628760311359::1780084675::1780084675::1::::<><><>0<>0<>dc86b0683bf40283c9c1bd77d2bf81ef<>res://.godot/imported/index.512x512.png-e7ad1992d943100022391d34cbd7ebee.ctex::
+index.apple-touch-icon.png::CompressedTexture2D::520763024222835411::1780084675::1780084675::1::::<><><>0<>0<>dc9cbb76e2e8a44f75c9c0df50c91d4c<>res://.godot/imported/index.apple-touch-icon.png-0e9e741d509b9845d94a2f9d40586494.ctex::
+index.icon.png::CompressedTexture2D::4710278871578335509::1780084675::1780084675::1::::<><><>0<>0<>f76a0d966b7ea081d4c91bb74ef41536<>res://.godot/imported/index.icon.png-aea3fffece8a67bb45712910ac83c392.ctex::
+index.manifest.json::JSON::-1::1780084675::0::1::::<><><>0<>0<><>::
+index.png::CompressedTexture2D::3619131316254835521::1780084675::1780084675::1::::<><><>0<>0<>5358046115dc44dffb2e2d28dd858823<>res://.godot/imported/index.png-c3f2fc3d81d4764bbc266ecccf1a0e2d.ctex::
+::res://exports/mineformer1/::1780084759
+index.apple-touch-icon.png::CompressedTexture2D::2782555415249761881::1780084675::1780084675::1::::<><><>0<>0<>83dad755a732d99527d5ec9883fa8576<>res://.godot/imported/index.apple-touch-icon.png-4faa3ebab5a88ac950a8bb30e8bb8b05.ctex::
+index.icon.png::CompressedTexture2D::9028982090420755927::1780084675::1780084675::1::::<><><>0<>0<>4f6f6d333217bff2ec6391024339e2eb<>res://.godot/imported/index.icon.png-c9f398f22ffb13cc865b5888e9011051.ctex::
+index.png::CompressedTexture2D::8083517038043237048::1780084675::1780084675::1::::<><><>0<>0<>3dede8f7cbc3c546dc84b82084df9550<>res://.godot/imported/index.png-50d9d6ac548b97149de45967f00ce1fe.ctex::
+::res://exports/mineformer 0.5/::1780084759
+index.apple-touch-icon.png::CompressedTexture2D::6942137473021487515::1780084675::1780084675::1::::<><><>0<>0<>7d18f174c0ea337aa08553dfed4a4f9e<>res://.godot/imported/index.apple-touch-icon.png-728aa674d1788e51271a260a4c469802.ctex::
+index.icon.png::CompressedTexture2D::6565453140543991660::1780084675::1780084675::1::::<><><>0<>0<>fc22849bd25c33190af95e11370a6a19<>res://.godot/imported/index.icon.png-1067eb29d062bf94bb0cd7b3d0dc9015.ctex::
+index.png::CompressedTexture2D::2884442933637959784::1780084675::1780084675::1::::<><><>0<>0<>d02fb7bd3f6da9feebf738c4fbc2a588<>res://.godot/imported/index.png-7e183649ef6384a69bf55e350d739958.ctex::
+::res://exports/mineformer 0.6/::1780084759
+index.apple-touch-icon.png::CompressedTexture2D::3137077621514521582::1780084675::1780084675::1::::<><><>0<>0<>1dd5941b2993a7f79b4aadab958a9117<>res://.godot/imported/index.apple-touch-icon.png-d13eb2810eed0f7a71d21d58dbd49c30.ctex::
+index.icon.png::CompressedTexture2D::409146852730246217::1780084675::1780084675::1::::<><><>0<>0<>c36510ed252037b0fc4718f80720959e<>res://.godot/imported/index.icon.png-a6c92fc7be44386e45499953d3648293.ctex::
+index.png::CompressedTexture2D::7965955559025536728::1780084675::1780084675::1::::<><><>0<>0<>87be98d3fd1b33db582d87d5e84434cd<>res://.godot/imported/index.png-e26be06cbf22b95ae9b534d54c59e7bc.ctex::
+::res://exports/mineformer 0.7/::1780084759
+index.apple-touch-icon.png::CompressedTexture2D::8744656087171496962::1780084675::1780084675::1::::<><><>0<>0<>5904c97af321c2b21caedfb53dc7b8c9<>res://.godot/imported/index.apple-touch-icon.png-68c32806103a970db1e99b238064aa4e.ctex::
+index.icon.png::CompressedTexture2D::8752700147380878584::1780084675::1780084675::1::::<><><>0<>0<>27040fe050c637e84d72412587afc0f5<>res://.godot/imported/index.icon.png-7299ff9ca818fbba31caf76010bc205c.ctex::
+index.png::CompressedTexture2D::1756095061934509490::1780084675::1780084675::1::::<><><>0<>0<>f703e2e37aa753a220b76aabfa42a205<>res://.godot/imported/index.png-1fc521d10d6d454b94196cb66dfd8fc0.ctex::
+::res://exports/mineformer 0.8/::1780084759
+index.apple-touch-icon.png::CompressedTexture2D::2634683684681845110::1780084675::1780084675::1::::<><><>0<>0<>92a8f12a10236cf1f57d8aa98c1a642e<>res://.godot/imported/index.apple-touch-icon.png-a9590113ae723301a29694f981d477b3.ctex::
+index.icon.png::CompressedTexture2D::5935632529559672494::1780084675::1780084675::1::::<><><>0<>0<>ba52defabe885784f0e3f6f6b681a851<>res://.godot/imported/index.icon.png-f1a14b50be39cd7b5d84c4992d66abdb.ctex::
+index.png::CompressedTexture2D::8553905304318076255::1780084675::1780084675::1::::<><><>0<>0<>5bdb08f961d267fc9f1061ae371575f8<>res://.godot/imported/index.png-d6fc80d7b586db0d3fd2be7481e21140.ctex::
+::res://exports/mineformer 0.9/::1780131348
+index.apple-touch-icon.png::CompressedTexture2D::8231187526508999576::1780125932::1780126046::1::::<><><>0<>0<>e1fdc9262f6f24b488ef26f093df653c<>res://.godot/imported/index.apple-touch-icon.png-d28ea2578f7aec66452cf3247f0c9251.ctex::
+index.icon.png::CompressedTexture2D::3782903195236324226::1780125932::1780126046::1::::<><><>0<>0<>a0e6f164ceda2d54f8fff87ad44c78b6<>res://.godot/imported/index.icon.png-b9d66202114500c2e059f13bba695c7b.ctex::
+index.png::CompressedTexture2D::242609893759393579::1780125932::1780126046::1::::<><><>0<>0<>21e70bb56a278bb6328bc6ec9ee249ec<>res://.godot/imported/index.png-9ab60f05974f37b373fc15cabf7cd023.ctex::
+::res://exports/mineformer 0.9.1/::1780131669
+index.apple-touch-icon.png::CompressedTexture2D::1221354221103208434::1780131235::1780131669::1::::<><><>0<>0<>65e644eeb406b7319991291914059284<>res://.godot/imported/index.apple-touch-icon.png-823b5c88fdea01d5346ecacd5f06fd8f.ctex::
+index.icon.png::CompressedTexture2D::1122287512304011652::1780131235::1780131669::1::::<><><>0<>0<>42df8257a54d77f135b5d8a71a79932c<>res://.godot/imported/index.icon.png-e5912394002bc56679c2ea24d8742e70.ctex::
+index.png::CompressedTexture2D::4885381627358056635::1780131235::1780131669::1::::<><><>0<>0<>7de55b8b2fe893da5a4131c18bc4a7f8<>res://.godot/imported/index.png-ea43802d4cca7c2824f431e68bd8a2fd.ctex::
+::res://exports/mineformer 0.9.5/::1780133956
+index.apple-touch-icon.png::CompressedTexture2D::2435052252540106975::1780133740::1780133956::1::::<><><>0<>0<>ccab5f4d6f81c8977232d213f9ebb7be<>res://.godot/imported/index.apple-touch-icon.png-c8599ad6979ce00c1808d9e035e1759c.ctex::
+index.icon.png::CompressedTexture2D::4471143241742082155::1780133740::1780133956::1::::<><><>0<>0<>57542f67d3c26727c642ba5dfb40d62a<>res://.godot/imported/index.icon.png-9758a8bec4868dc5cb79123b26f646a4.ctex::
+index.png::CompressedTexture2D::2693168428687816115::1780133740::1780133956::1::::<><><>0<>0<>b239c31523d235838161fe09d3a4f06d<>res://.godot/imported/index.png-1dba64c2dfa51cf8b4ec1f2135a542aa.ctex::
+::res://exports/mineformer 1.0/::1780150048
+index.apple-touch-icon.png::CompressedTexture2D::5939599995776928442::1780149949::1780150048::1::::<><><>0<>0<>7a3afe42ea2a1a893da1ce33d69b2710<>res://.godot/imported/index.apple-touch-icon.png-a13175b3c6be3c51a4c94459ff4f5b87.ctex::
+index.icon.png::CompressedTexture2D::8908208902588750639::1780149949::1780150047::1::::<><><>0<>0<>74e19a6721dd383e802f7b5a52ddb99f<>res://.godot/imported/index.icon.png-3bb7143f38360c01e998eff0eba820e9.ctex::
+index.png::CompressedTexture2D::5427757077509922044::1780149949::1780150048::1::::<><><>0<>0<>3d0d9fbf675c3171b809368ee471e3b1<>res://.godot/imported/index.png-3677ac047e44fcacd7a7c6f85d480142.ctex::
+::res://exports/mineformer 1.1.0/::1780151230
+index.apple-touch-icon.png::CompressedTexture2D::660298931946700287::1780151005::1780151230::1::::<><><>0<>0<>2bda0b849905df4411b3acb61f3e9742<>res://.godot/imported/index.apple-touch-icon.png-37f67d9828966753108824d7f87ecfcb.ctex::
+index.icon.png::CompressedTexture2D::8630291539847415478::1780151005::1780151230::1::::<><><>0<>0<>77bcdb76cba7832407d6ee38912352c5<>res://.godot/imported/index.icon.png-6509ddd45d4819c0967d2a4f38907eea.ctex::
+index.png::CompressedTexture2D::5037147265535973497::1780151005::1780151230::1::::<><><>0<>0<>a98b95534a10eb532879122f53f5f2c6<>res://.godot/imported/index.png-11a5fa6b5ceee0d3916cd7e8bd17c510.ctex::
+::res://exports/mineformer 1.1.1/::1780151507
+index.apple-touch-icon.png::CompressedTexture2D::13063879230915434::1780151420::1780151506::1::::<><><>0<>0<>36e8444bbe6f8e1dd1a2de20a744b93d<>res://.godot/imported/index.apple-touch-icon.png-115aa2f698babf488108eea7685d0520.ctex::
+index.icon.png::CompressedTexture2D::8574922847187609000::1780151420::1780151506::1::::<><><>0<>0<>f6c6e78b3d04db4ed7fa1fb2a44a8484<>res://.godot/imported/index.icon.png-aa1befedeaa608a684912d90a1a95404.ctex::
+index.png::CompressedTexture2D::3917437086949822855::1780151420::1780151507::1::::<><><>0<>0<>28584df2e8392841bf5952c8ad6f5892<>res://.godot/imported/index.png-040c192e5695154218796eaec70dc54b.ctex::
+::res://res/::1780138950
+button_bg.tres::StyleBoxFlat::6786000779139692891::1780138950::0::1::::<><><>0<>0<><>::
+tileset.tres::TileSet::5277467235942523986::1780084675::0::1::::<><><>0<>0<><>::uid://c6620xhkx8tuj::::res://assets/sprites/minecraft_tiles.png
+::res://scenes/::1780151509
+camera_2d.tscn::PackedScene::5455675336137896107::1780085722::0::1::::<><><>0<>0<><>::uid://3jyq08qj0s1y::::res://assets/sprites/arrow.png
+coin.tscn::PackedScene::2939026660003510421::1780138212::0::1::::<><><>0<>0<><>::uid://c2l86g4cvly78::::res://scripts/coin.gd<>uid://drkbr0c7jf2ew::::res://assets/sprites/coin.png<>uid://bkx100lorndhv::::res://assets/sounds/ribhavagrawal-coin-recieved-230517.mp3
+diescreen.tscn::PackedScene::1688963756645914182::1780150984::0::1::::<><><>0<>0<><>::uid://c3xgpaihcwodn::::res://res/button_bg.tres<>uid://bri8fok0uo2r0::::res://scenes/enablemouse.gd<>uid://gkxgfl2svph4::::res://scenes/mainmenubutton.gd<>uid://bbl10ei0r8h7l::::res://scenes/play_button.gd<>uid://7b1hsd713yg7::::res://assets/sprites/YOU-DIED.png
+dragon_egg_end.gd::GDScript::5748069592683337029::1780148177::0::1::::<>Area2D<><>0<>0<><>::
+dragon_egg_end.tscn::PackedScene::7552783414124569923::1780147863::0::1::::<><><>0<>0<><>::uid://cn5n4psrq5rsn::::res://scenes/dragon_egg_end.gd<>uid://bbkogwgxdg6kw::::res://assets/sprites/dragon_egg.png<>uid://mgmm1rgodeo7::::res://assets/sprites/NICE-TRY.png<>uid://clh7tk2lwtgsg::::res://scenes/nicetry.gd
+enablemouse.gd::GDScript::3598159389241088151::1780149128::0::1::::<>Control<><>0<>0<><>::
+game.tscn::PackedScene::8880798602163039239::1780132991::0::1::::<><><>0<>0<><>::uid://cu60fiqeqi763::::res://scenes/player.tscn<>uid://bbvjeyvmsp02k::::res://scenes/killzone.tscn<>uid://bh4xlsxkdr142::::res://scenes/coin.tscn<>uid://c6620xhkx8tuj::::res://assets/sprites/minecraft_tiles.png<>uid://b1r0025osahtk::::res://assets/sprites/sky_tileset.png<>uid://dh6m0c7iernd3::::res://scenes/worldbarrier.tscn
+killzone.tscn::PackedScene::2500516349848101212::1780140884::0::1::::<><><>0<>0<><>::uid://dpyraqkwmen7x::::res://scripts/killzone.gd
+level1.tscn::PackedScene::4067945840724931818::1780150844::0::1::::<><><>0<>0<><>::uid://broprvhw4ie2n::::res://scenes/scoresetter.gd<>uid://bgd518f1k4sp7::::res://scenes/ui.tscn<>uid://cu60fiqeqi763::::res://scenes/player.tscn<>uid://b6kx2rdke85o8::::res://assets/sounds/nickpanekaiassets-356-8-bit-chiptune-game-music-357518.mp3<>uid://dh6m0c7iernd3::::res://scenes/worldbarrier.tscn<>uid://c6620xhkx8tuj::::res://assets/sprites/minecraft_tiles.png<>uid://b1r0025osahtk::::res://assets/sprites/sky_tileset.png<>uid://cn5n4psrq5rsn::::res://scenes/dragon_egg_end.gd<>uid://bbkogwgxdg6kw::::res://assets/sprites/dragon_egg.png<>uid://mgmm1rgodeo7::::res://assets/sprites/NICE-TRY.png<>uid://clh7tk2lwtgsg::::res://scenes/nicetry.gd<>uid://bbvjeyvmsp02k::::res://scenes/killzone.tscn<>uid://bh4xlsxkdr142::::res://scenes/coin.tscn
+LevelBluePrint.tscn::PackedScene::7614059382777922516::1780147403::0::1::::<><><>0<>0<><>::uid://bgd518f1k4sp7::::res://scenes/ui.tscn<>uid://cu60fiqeqi763::::res://scenes/player.tscn<>uid://b6kx2rdke85o8::::res://assets/sounds/nickpanekaiassets-356-8-bit-chiptune-game-music-357518.mp3<>uid://dh6m0c7iernd3::::res://scenes/worldbarrier.tscn<>uid://c6620xhkx8tuj::::res://assets/sprites/minecraft_tiles.png<>uid://b1r0025osahtk::::res://assets/sprites/sky_tileset.png
+level_complete.tscn::PackedScene::2915281738344259641::1780149494::0::1::::<><><>0<>0<><>::uid://bad12f8rj0ku7::::res://assets/sprites/LEVEL-COMPLETE.png<>uid://bri8fok0uo2r0::::res://scenes/enablemouse.gd<>uid://c3xgpaihcwodn::::res://res/button_bg.tres<>uid://gkxgfl2svph4::::res://scenes/mainmenubutton.gd
+mainmenubutton.gd::GDScript::443184325827102895::1780150912::0::1::::<>Button<><>0<>0<><>::
+main_menu.tscn::PackedScene::794278703594555795::1780149402::0::1::::<><><>0<>0<><>::uid://c6620xhkx8tuj::::res://assets/sprites/minecraft_tiles.png<>uid://bri8fok0uo2r0::::res://scenes/enablemouse.gd<>uid://dcwhghgr5qccu::::res://assets/sprites/MINEFORMER.png<>uid://b1r0025osahtk::::res://assets/sprites/sky_tileset.png<>uid://bdwwd6ahvk1tj::::res://assets/sprites/PLAY.png<>uid://0p10tmmklblw::::res://assets/sprites/By-ChuwexCraft.png<>uid://c3xgpaihcwodn::::res://res/button_bg.tres<>uid://bbl10ei0r8h7l::::res://scenes/play_button.gd
+nicetry.gd::GDScript::5561346733008860698::1780146260::0::1::::<>Sprite2D<><>0<>0<><>::
+platform.tscn::PackedScene::9151974188301527151::1780084675::0::1::::<><><>0<>0<><>::
+player.tscn::PackedScene::6242141249418536314::1780148712::0::1::::<><><>0<>0<><>::uid://os5hxbmevgmn::::res://scripts/player.gd<>uid://djinuw1tle41i::::res://assets/sprites/spritesheet_steve.png
+play_button.gd::GDScript::2480941192897086879::1780150902::0::1::::<>Button<><>0<>0<><>::
+scorelabel.gd::GDScript::1148656275559718121::1780150655::0::1::::<>Label<><>0<>0<><>::
+scoresetter.gd::GDScript::3609474542327005635::1780150835::0::1::::<>Node<><>0<>0<><>::
+testlevel.tscn::PackedScene::6553111855994666559::1780138274::0::1::::<><><>0<>0<><>::uid://dyr6pqsb6q6o6::::res://scenes/game.tscn<>uid://bgd518f1k4sp7::::res://scenes/ui.tscn<>uid://b6kx2rdke85o8::::res://assets/sounds/nickpanekaiassets-356-8-bit-chiptune-game-music-357518.mp3
+ui.tscn::PackedScene::2815616561398418286::1780151509::0::1::::<><><>0<>0<><>::uid://3jyq08qj0s1y::::res://assets/sprites/arrow.png<>uid://qmog3nt5r082::::res://scenes/scorelabel.gd
+worldbarrier.tscn::PackedScene::7715353070532156542::1780084675::0::1::::<><><>0<>0<><>::
+::res://scripts/::1780150720
+coin.gd::GDScript::6692707681338903145::1780150720::0::1::::<>Area2D<><>0<>0<><>::
+killzone.gd::GDScript::8262672817461688619::1780140884::0::1::::<>Area2D<><>0<>0<><>::
+player.gd::GDScript::1021637830979118437::1780148712::0::1::::<>CharacterBody2D<><>0<>0<><>::

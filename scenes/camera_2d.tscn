@@ -1,0 +1,40 @@
+[gd_scene format=3 uid="uid://cjy1f8d18dic6"]
+
+[ext_resource type="Texture2D" uid="uid://3jyq08qj0s1y" path="res://assets/sprites/arrow.png" id="1"]
+
+[node name="Camera2D" type="Camera2D" unique_id=1455347632]
+position_smoothing_enabled = true
+
+[node name="CanvasLayer" type="CanvasLayer" parent="." unique_id=1711098324]
+
+[node name="TouchScreenButtonRight" type="TouchScreenButton" parent="CanvasLayer" unique_id=1563658141]
+z_index = 20
+texture_filter = 1
+position = Vector2(320, 488)
+rotation = 1.5707964
+scale = Vector2(2, 2)
+texture_normal = ExtResource("1")
+texture_pressed = ExtResource("1")
+action = "ui_right"
+visibility_mode = 1
+
+[node name="TouchScreenButtonJump" type="TouchScreenButton" parent="CanvasLayer" unique_id=156327484]
+z_index = 20
+texture_filter = 1
+position = Vector2(960, 488)
+scale = Vector2(2, 2)
+texture_normal = ExtResource("1")
+texture_pressed = ExtResource("1")
+action = "ui_accept"
+visibility_mode = 1
+
+[node name="TouchScreenButtonLeft" type="TouchScreenButton" parent="CanvasLayer" unique_id=2051742116]
+z_index = 20
+texture_filter = 1
+position = Vector2(64, 584)
+rotation = -1.5707964
+scale = Vector2(2, 2)
+texture_normal = ExtResource("1")
+texture_pressed = ExtResource("1")
+action = "ui_left"
+visibility_mode = 1

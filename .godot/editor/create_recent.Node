@@ -1,0 +1,14 @@
+Timer
+CollisionShape2D
+Node
+Label
+AnimationPlayer
+Sprite2D
+ColorRect
+Control
+Area2D
+AudioStreamPlayer
+AudioStreamPlayer2D
+Button
+Camera2D
+MarginContainer
